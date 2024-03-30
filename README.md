@@ -1,2 +1,2 @@
 # Restaurant_Website
-I developed this responsive restaurant website by using HTML and CSS.
+This is resturant web page devepoled by using a HTML, CSS technology. This page is fully responsive 
